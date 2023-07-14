@@ -2,7 +2,7 @@
   {
     "entityRef": {
       "kind": "api",
-      "name": "hello-world"
+      "name": "example-grpc-api"
     },
     "scorePercent": 50,
     "scoreLabel": "Yellow",
@@ -41,20 +41,11 @@
       }
     ]
   },
+
   {
     "entityRef": {
       "kind": "system",
-      "name": "non-valid-system"
-    },
-    "generatedDateTimeUtc": "2021-07-22 10:00",
-    "scorePercent": 20,
-    "scoreSuccess": "failure",
-    "scoringReviewer": "n/a"
-  },
-  {
-    "entityRef": {
-      "kind": "system",
-      "name": "audio-playback"
+      "name": "examples"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
