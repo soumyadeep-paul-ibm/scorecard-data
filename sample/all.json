@@ -365,15 +365,15 @@
       "name": "examples"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
-    "scorePercent": 57,
+    "scorePercent": 37,
     "scoringReviewer": "guests",
-    "scoringReviewDate": "2022-01-04T08:00:00Z",
+    "scoringReviewDate": "2023-07-21T08:00:00Z",
     "scoreSuccess": "partial",
     "areaScores": [
       {
         "id": 2199,
         "title": "Code",
-        "scorePercent": 50,
+        "scorePercent": 80,
         "scoreSuccess": "success",
         "scoreEntries": [
           {
@@ -389,7 +389,7 @@
       {
         "id": 3937,
         "title": "Documentation",
-        "scorePercent": 75,
+        "scorePercent": 45,
         "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
@@ -414,7 +414,7 @@
       {
         "id": 2208,
         "title": "Operations",
-        "scorePercent": 50,
+        "scorePercent": 31,
         "scoreSuccess": "partial",
         "scoreEntries": [
           {
@@ -429,7 +429,7 @@
       {
         "id": 4333,
         "title": "Quality",
-        "scorePercent": 25,
+        "scorePercent": 35,
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
           {
@@ -451,7 +451,7 @@
       {
         "id": 4328,
         "title": "Security",
-        "scorePercent": 10,
+        "scorePercent": 9,
         "scoreSuccess": "failure",
         "scoreEntries": [
           {
